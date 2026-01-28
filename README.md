@@ -17,6 +17,7 @@ This project proposes an intelligent eligibility recommendation system that simp
 The application collects essential user details such as age, income, gender, education level, and category. Based on these inputs, the system applies predefined eligibility rules and matches them with available schemes.
 
 To enhance accessibility and usability, the solution integrates:
+- signup/login page
 - Automated eligibility matching
 - AI-powered chatbot support
 - Voice-based assistance for better inclusivity
@@ -61,16 +62,17 @@ This feature enhances inclusivity and ensures that information reaches a wider a
 ## Screenshots
 
 ```md
-![Home Page](assets/home.png)
-<img width="1847" height="851" alt="Screenshot 2026-01-28 162017" src="https://github.com/user-attachments/assets/458ea33d-191f-42b9-aef8-560142c6e966" />
+
+<img width="1856" height="843" alt="Screenshot 2026-01-29 051706" src="https://github.com/user-attachments/assets/feb380b3-b7a6-4586-86c5-d9f13748fdf8" />
 
 
-![Eligibility Result](assets/result.png)
-<img width="1842" height="846" alt="Screenshot 2026-01-28 162535" src="https://github.com/user-attachments/assets/6f522df6-b220-4848-9358-7f213b8bb2f8" />
+<img width="1847" height="851" alt="Screenshot 2026-01-28 162017" src="https://github.com/user-attachments/assets/5277456d-6850-4e30-a1fa-99afa452a9d1" />
 
 
-![Chatbot Interface](assets/chatbot.png)
-<img width="1839" height="839" alt="Screenshot 2026-01-28 162622" src="https://github.com/user-attachments/assets/02d6cea3-d708-4c9e-8f5d-5d583f383fab" />
+<img width="1842" height="846" alt="Screenshot 2026-01-28 162535" src="https://github.com/user-attachments/assets/d993aea1-af32-4ee3-be96-3e89ed43f8e1" />
+
+
+<img width="1839" height="839" alt="Screenshot 2026-01-28 162622" src="https://github.com/user-attachments/assets/6a1b9bc9-41d0-4dee-8553-cfc2aeb4d757" />
 
 
 AICW-Final-Project/

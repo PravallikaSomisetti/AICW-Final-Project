@@ -81,6 +81,16 @@ This feature enhances inclusivity and ensures that information reaches a wider a
   <img width="800" alt="Chatbot Interface" src="chatbot.image.jpeg">
 </p>
 
+
+# Video 
+
+
+
+https://github.com/user-attachments/assets/e57f303b-b4dc-4cac-9f16-9561a35ae9c1
+
+
+
+
 AICW-Final-Project/
 │
 ├── app.py              # Main application logic

@@ -80,7 +80,7 @@ This feature enhances inclusivity and ensures that information reaches a wider a
 
 <p align="center">
   <b>AI Document Intelligence & Chatbot</b><br>
-  <img width="800" alt="Chatbot Interface" src="https://github.com/user-attachments/assets/6a1b9bc9-41d0-40e9-be6d-4780562e896a">
+  <img width="800" alt="Chatbot Interface" src="chatbot.image.jpeg">
 </p>
 
 AICW-Final-Project/

@@ -61,11 +61,27 @@ This feature enhances inclusivity and ensures that information reaches a wider a
 
 ## Screenshots
 
-```md
+## Screenshots
 
-![login page](https://github.com/user-attachments/assets/03982eeb-ce18-426f-87be-0f683548af60)
+<p align="center">
+  <b>Login Page</b><br>
+  <img width="800" alt="Login Page" src="https://github.com/user-attachments/assets/feb380b3-b7a6-444a-939e-d3969188e734">
+</p>
 
+<p align="center">
+  <b>Home Page</b><br>
+  <img width="800" alt="Home Page" src="https://github.com/user-attachments/assets/5277456d-6850-48e0-a704-5853b0a70195">
+</p>
 
+<p align="center">
+  <b>Applicant Details & Eligibility Form</b><br>
+  <img width="800" alt="Applicant Details" src="https://github.com/user-attachments/assets/d993aea1-af32-421b-871d-654e80e15967">
+</p>
+
+<p align="center">
+  <b>AI Document Intelligence & Chatbot</b><br>
+  <img width="800" alt="Chatbot Interface" src="https://github.com/user-attachments/assets/6a1b9bc9-41d0-40e9-be6d-4780562e896a">
+</p>
 
 AICW-Final-Project/
 │

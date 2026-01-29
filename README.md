@@ -94,11 +94,15 @@ https://github.com/user-attachments/assets/e57f303b-b4dc-4cac-9f16-9561a35ae9c1
 AICW-Final-Project/
 │
 ├── app.py              # Main application logic
+
 ├── requirements.txt    # Required Python libraries
+
 ├── README.md           # Project documentation
+
 ├── .gitignore          # Git ignored files
-├── assets/             # Screenshots and static files
-└── data/               # Scheme and eligibility data
+
+└── assets/             # Screenshots and static files
+
 
 # 📄 File Descriptions
 

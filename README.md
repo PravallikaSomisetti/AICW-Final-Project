@@ -65,21 +65,8 @@ This feature enhances inclusivity and ensures that information reaches a wider a
 
 ## Screenshots
 
-<p align="center">
-  <img width="800" alt="Screenshot 1" src="https://github.com/user-attachments/assets/feb380b3-b7a6-444a-939e-d3969188e734">
-</p>
+![Uploading Screenshot 2026-01-29 051706.png…]()
 
-<p align="center">
-  <img width="800" alt="Screenshot 2" src="https://github.com/user-attachments/assets/5277456d-6850-48e0-a704-5853b0a70195">
-</p>
-
-<p align="center">
-  <img width="800" alt="Screenshot 3" src="https://github.com/user-attachments/assets/d993aea1-af32-421b-871d-654e80e15967">
-</p>
-
-<p align="center">
-  <img width="800" alt="Screenshot 4" src="https://github.com/user-attachments/assets/6a1b9bc9-41d0-40e9-be6d-4780562e896a">
-</p>
 
 
 AICW-Final-Project/

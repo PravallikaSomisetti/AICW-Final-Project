@@ -1,0 +1,10 @@
+streamlit
+Pillow
+pytesseract
+pdfplumber
+python-docx
+deep-translator
+groq
+python-dotenv
+gTTS
+streamlit-mic-recorder

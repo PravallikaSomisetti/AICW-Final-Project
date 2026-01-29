@@ -1,0 +1,10 @@
+scheme_name,eligible_caste,gender,education,occupation,min_age,max_age,max_income,apply_link
+Talliki Vandanam (Amma Vodi),"OC,BC,SC,ST,Minority","Male,Female","School,Intermediate,Diploma",Student,6,18,144000,https://pmschemehub.in/thalliki-vandanam-scheme/
+Dr NTR Vaidya Seva,"OC,BC,SC,ST,Minority","Male,Female",ALL,ALL,1,120,500000,https://drntrvaidyaseva.ap.gov.in
+Annadata Sukhibhava Scheme,"OC,BC,SC,ST,Minority","Male,Female",ALL,Farmer,18,120,200000,https://annadathasukhibhava.ap.gov.in
+AP Housing (Mana illu Mana gouravam),"OBC,SC,ST,BC,Minority",Female,ALL,Worker,18,120,300000,https://housing.ap.gov.in
+NTR Bharosa Pension Scheme (Senior),"OC,BC,SC,ST,Minority","Male,Female",NONE,Senior,60,120,20000,https://sspensions.ap.gov.in
+NTR Bharosa Pension Scheme (Disable),"OC,BC,SC,ST,Minority","Male,Female",ALL,ALL,0,120,100000,https://sspensions.ap.gov.in
+NTR Bharosa Pension Scheme (Widow),"OC,BC,SC,ST,Minority",Female,"BTech,Degree,PG",Widow,18,120,100000,https://sspensions.ap.gov.in
+NTR Bharosa Pension Scheme (Single Women Pension),"OC,BC,SC,ST,Minority",Female,NONE,"Single Women(Married)",35,120,300000,https://sspensions.ap.gov.in
+NTR Bharosa Pension Scheme (Single Women Pension),"OC,BC,SC,ST,Minority",Female,NONE,"Single Women(Unmarried)",30,120,300000,https://sspensions.ap.gov.in

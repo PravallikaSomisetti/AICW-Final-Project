@@ -1,0 +1,8 @@
+scholarship_name,eligible_caste,gender,education,occupation,min_age,max_age,max_income,min_marks,apply_link
+Post Matric Scholarship – Tuition Fee (Jnanabhumi),"OC,BC,SC,ST,Minority","Male,Female","BTech,Degree",Student,18,22,120000,75,https://jnanabhumi.ap.gov.in
+Post Matric Scholarship – Maintenance Fee (Jnanabhumi),"OC,BC,SC,ST,Minority","Male,Female","BTech,Degree",Student,18,22,120000,75,https://jnanabhumi.ap.gov.in
+Pre Matric Scholarship,"OBC,SC,ST,Minority","Male,Female",School,Student,6,16,200000,40,https://jnanabhumi.ap.gov.in
+Minority Scholarship,Minority,"Male,Female",Degree,Student,18,120,250000,50,https://scholarships.gov.in
+AICTE Pragati Scholarship,"OBC,SC,ST",Female,"B.E,BTech,Diploma",Student,18,22,800000,60,https://www.aicte-india.org/schemes/students-development-schemes
+AICTE Saksham Scholarship,"OBC,SC,ST","Male,Female","Degree,Diploma",Student,15,22,800000,60,https://www.aicte-india.org/schemes/students-development-schemes
+NTR Videshi Vidyadharana,"EBC,BC,SC,ST",Female,"PG,Ph.D",Student,26,35,600000,75,https://scholarshipbuddyhub.com/ntr-videshi-vidyadharana-overseas-scholarship/

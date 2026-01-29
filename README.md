@@ -63,16 +63,23 @@ This feature enhances inclusivity and ensures that information reaches a wider a
 
 ```md
 
-<img width="1856" height="843" alt="Screenshot 2026-01-29 051706" src="https://github.com/user-attachments/assets/feb380b3-b7a6-4586-86c5-d9f13748fdf8" />
+## Screenshots
 
+<p align="center">
+  <img width="800" alt="Screenshot 1" src="https://github.com/user-attachments/assets/feb380b3-b7a6-444a-939e-d3969188e734">
+</p>
 
-<img width="1847" height="851" alt="Screenshot 2026-01-28 162017" src="https://github.com/user-attachments/assets/5277456d-6850-4e30-a1fa-99afa452a9d1" />
+<p align="center">
+  <img width="800" alt="Screenshot 2" src="https://github.com/user-attachments/assets/5277456d-6850-48e0-a704-5853b0a70195">
+</p>
 
+<p align="center">
+  <img width="800" alt="Screenshot 3" src="https://github.com/user-attachments/assets/d993aea1-af32-421b-871d-654e80e15967">
+</p>
 
-<img width="1842" height="846" alt="Screenshot 2026-01-28 162535" src="https://github.com/user-attachments/assets/d993aea1-af32-4ee3-be96-3e89ed43f8e1" />
-
-
-<img width="1839" height="839" alt="Screenshot 2026-01-28 162622" src="https://github.com/user-attachments/assets/6a1b9bc9-41d0-4dee-8553-cfc2aeb4d757" />
+<p align="center">
+  <img width="800" alt="Screenshot 4" src="https://github.com/user-attachments/assets/6a1b9bc9-41d0-40e9-be6d-4780562e896a">
+</p>
 
 
 AICW-Final-Project/

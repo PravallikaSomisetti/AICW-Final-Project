@@ -1,5 +1,5 @@
 # AICW Final Project  
-## BenefitBot- AP govt Eligibility Finder
+# BenefitBot- AP govt Eligibility Finder
 
 ---
 
@@ -137,5 +137,6 @@ Improved problem-solving and software design skills
 ## 👩‍💻 Author
 
 Pravallika Somisetti
+
 AICW Final Project
 

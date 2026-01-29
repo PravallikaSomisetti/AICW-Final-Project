@@ -70,7 +70,7 @@ This feature enhances inclusivity and ensures that information reaches a wider a
 
 <p align="center">
   <b>Home Page</b><br>
-  <img width="800" alt="Home Page" src="https://github.com/user-attachments/assets/5277456d-6850-48e0-a704-5853b0a70195">
+  <img width="800" alt="Home Page" src=home.page.jpeg">
 </p>
 
 <p align="center">

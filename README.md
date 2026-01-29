@@ -64,7 +64,7 @@ This feature enhances inclusivity and ensures that information reaches a wider a
 ```md
 
 ## Screenshots
-![image alt](https://github.com/PravallikaSomisetti/AICW-Final-Project/blob/main/Screenshot%202026-01-29%20051706.png?raw=true)
+![image alt](https://github.com/PravallikaSomisetti/AICW-Final-Project/blob/a420cb7c22f98402635912c7f7bc5a9cca97e3b6/Screenshot%202026-01-29%20051706.png)
 
 
 AICW-Final-Project/

@@ -75,7 +75,7 @@ This feature enhances inclusivity and ensures that information reaches a wider a
 
 <p align="center">
   <b>Applicant Details & Eligibility Form</b><br>
-  <img width="800" alt="Applicant Details" src="https://github.com/user-attachments/assets/d993aea1-af32-421b-871d-654e80e15967">
+  <img width="800" alt="Applicant Details" src="applicant.page.jpeg">
 </p>
 
 <p align="center">

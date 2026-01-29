@@ -92,27 +92,24 @@ AICW-Final-Project/
 ├── assets/             # Screenshots and static files
 └── data/               # Scheme and eligibility data
 
-📄 File Descriptions
+## 📄 File Descriptions
 
-app.py
+# app.py
 Implements user input handling, eligibility logic, chatbot interaction, and voice output.
 
-requirements.txt
+# requirements.txt
 Lists all dependencies required to execute the project.
 
-README.md
+# README.md
 Provides complete documentation including problem statement, solution, and usage instructions.
 
-.gitignore
+# .gitignore
 Ensures unnecessary files are not tracked in the GitHub repository.
 
-assets/
+# assets/
 Contains screenshots and images related to the project.
 
-data/
-Stores scheme information and eligibility criteria.
-
-▶️ Steps to Run the Project
+## ▶️ Steps to Run the Project
 
 -> Clone the GitHub repository:
 git clone https://github.com/PravallikaSomisetti/AICW-Final-Project.git
@@ -132,14 +129,14 @@ python app.py
 
 Enter user details, interact with the chatbot, and listen to voice-based scheme explanations.
 
-🎓 Learning Outcomes
+## 🎓 Learning Outcomes
 
 Practical implementation of AI-assisted systems
 Understanding of rule-based decision systems
 Experience with chatbot and voice integration
 Improved problem-solving and software design skills
 
-👩‍💻 Author
+## 👩‍💻 Author
 
 Pravallika Somisetti
 AICW Final Project

@@ -1,9 +1,9 @@
 # AICW Final Project  
-### Government Scheme & Scholarship Eligibility Finder
+## BenefitBot- AP govt Eligibility Finder
 
 ---
 
-##  Project Problem Statement
+#  Project Problem Statement
 Many citizens are unaware of the government schemes and scholarships for which they are eligible. Existing government portals are often complex, text-heavy, and require users to already understand eligibility rules, categories, and documentation procedures.  
 Due to this lack of accessibility and clarity, many deserving individuals fail to benefit from government welfare programs.
 
@@ -12,7 +12,7 @@ Due to this lack of accessibility and clarity, many deserving individuals fail t
 
 ---
 
-##  Solution Approach
+#  Solution Approach
 This project proposes an intelligent eligibility recommendation system that simplifies access to government schemes and scholarships.  
 The application collects essential user details such as age, income, gender, education level, and category. Based on these inputs, the system applies predefined eligibility rules and matches them with available schemes.
 
@@ -26,7 +26,7 @@ The system is designed to be modular, scalable, and easy to extend with addition
 
 ---
 
-##  Project Features
+#  Project Features
 - Automatic eligibility checking based on user inputs  
 -  AI-powered chatbot for scheme-related queries
 -  AI document scanning intelligence
@@ -39,7 +39,7 @@ The system is designed to be modular, scalable, and easy to extend with addition
 
 ---
 
-##  Chatbot Feature Description
+#  Chatbot Feature Description
 The chatbot feature allows users to interact with the system in a conversational manner.  
 Users can ask questions related to:
 - Scheme details
@@ -51,7 +51,7 @@ The chatbot processes user queries and provides clear, concise responses, reduci
 
 ---
 
-##  Voice Feature Description
+#  Voice Feature Description
 To make the system more accessible, especially for users with limited literacy or visual challenges, a voice-based feature is implemented.  
 The system converts scheme details and eligibility information into speech, allowing users to listen to the information instead of reading it.
 
@@ -59,9 +59,7 @@ This feature enhances inclusivity and ensures that information reaches a wider a
 
 ---
 
-## Screenshots
-
-## Screenshots
+# Screenshots
 
 <p align="center">
   <b>Login Page</b><br>
@@ -92,24 +90,24 @@ AICW-Final-Project/
 ├── assets/             # Screenshots and static files
 └── data/               # Scheme and eligibility data
 
-## 📄 File Descriptions
+# 📄 File Descriptions
 
-# app.py
+## app.py
 Implements user input handling, eligibility logic, chatbot interaction, and voice output.
 
-# requirements.txt
+### requirements.txt
 Lists all dependencies required to execute the project.
 
-# README.md
+### README.md
 Provides complete documentation including problem statement, solution, and usage instructions.
 
-# .gitignore
+### .gitignore
 Ensures unnecessary files are not tracked in the GitHub repository.
 
-# assets/
+### assets/
 Contains screenshots and images related to the project.
 
-## ▶️ Steps to Run the Project
+# ▶️ Steps to Run the Project
 
 -> Clone the GitHub repository:
 git clone https://github.com/PravallikaSomisetti/AICW-Final-Project.git
@@ -129,7 +127,7 @@ python app.py
 
 Enter user details, interact with the chatbot, and listen to voice-based scheme explanations.
 
-## 🎓 Learning Outcomes
+# 🎓 Learning Outcomes
 
 Practical implementation of AI-assisted systems
 Understanding of rule-based decision systems

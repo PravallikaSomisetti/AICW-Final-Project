@@ -65,7 +65,7 @@ This feature enhances inclusivity and ensures that information reaches a wider a
 
 <p align="center">
   <b>Login Page</b><br>
-  <img width="800" alt="Login Page" src="https://github.com/user-attachments/assets/feb380b3-b7a6-444a-939e-d3969188e734">
+  <img width="800" alt="Login Page" src="Screenshot 2026-01-29 051706.png">
 </p>
 
 <p align="center">

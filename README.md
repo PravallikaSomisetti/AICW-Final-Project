@@ -65,8 +65,7 @@ This feature enhances inclusivity and ensures that information reaches a wider a
 
 ## Screenshots
 
-![Uploading Screenshot 2026-01-29 051706.png…]()
-
+<img width="1856" height="843" alt="Screenshot 2026-01-29 051706" src="https://github.com/user-attachments/assets/70ff1046-5d6f-41cf-b83a-f6490f0f0599" />
 
 
 AICW-Final-Project/
